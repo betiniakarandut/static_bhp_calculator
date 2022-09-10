@@ -10,7 +10,7 @@ This package also followed the method of SUKKAR and CORNELL INTEGRAL METHOD to s
 
 # _installation_
 
-Just like any other Python package, it can install by simply running the command below on your terminal or command prompt:
+Just like other Python packages, it can be installed by simply running the command below on your terminal or command prompt:
 
 * **_pip install static_bhp_calculator_**
 
